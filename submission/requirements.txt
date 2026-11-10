@@ -1,0 +1,1 @@
+# Standard-library implementation; no third-party packages or API keys required.

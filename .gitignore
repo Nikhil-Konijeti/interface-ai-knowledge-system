@@ -1,0 +1,19 @@
+# Participant website materials and provided evaluation kit (not for redistribution)
+snapshots/
+snapshots_zip/
+hackathon-knowledge-kit-participant*.zip
+Knowledge-Hackathon-Assignment.pdf
+# Secrets and local environment
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Local evaluator output
+results/
+*.log
+.DS_Store
+
