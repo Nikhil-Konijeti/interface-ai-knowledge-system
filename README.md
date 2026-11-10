@@ -1,4 +1,4 @@
-# interface.ai — Knowledge that knows what's true now
+# interface.ai - Knowledge that knows what's true now
 
 A temporal, provenance-aware knowledge system for the Software Engineer II engineering assignment. It reads five snapshots, answers date-qualified credit-union questions with sources, and identifies conflicting information.
 
